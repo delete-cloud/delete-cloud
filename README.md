@@ -10,10 +10,10 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=delete-cloud&theme=tokyo-night">
 <div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=delete-cloude&count_private=true&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api?username=delete-cloud&count_private=true&theme=tokyonight"
         align="center"
         height=251rm>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-cloude&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-cloud&theme=tokyonight"
         align="center"
         height=250rm>
 </div>
