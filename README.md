@@ -9,13 +9,13 @@
     </picture>
 </div>
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=delete-cloud&theme=tokyo-night">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=delete-cloud&theme=tokyo-night&hide_border=true">
 <div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=delete-cloud&count_private=true&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api?username=delete-cloud&count_private=true&theme=tokyonight&hide_border=true"
         align="center"
         height=251rm>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-cloud&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-cloud&theme=tokyonight&hide_border=true"
         align="center"
         height=250rm>
 </div>
