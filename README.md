@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?duration=8000&size=28&color=70a5fd&font=Press Start 2P&pause=5000&center=true&vCenter=true&width=800&lines=Hello World!" alt="Typing SVG" />
 </div>
-<div align="center">
+<!-- <div align="center">
     <picture align="center">
         <source media="(prefers-color-scheme: dark)"
                 srcset="https://github-readme-activity-graph.vercel.app/graph?username=delete-cloud&theme=tokyo-night&hide_border=true">
@@ -10,7 +10,7 @@
         <img alt="activity-graph"
                 src="https://github-readme-activity-graph.cyclic.app/graph?username=delete-cloud&theme=minimal&hide_border=true">
     </picture>
-<div>
+<div> -->
 <div align="center">
     <picture align="center"
              height=251rm>
