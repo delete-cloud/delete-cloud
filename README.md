@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?duration=8000&size=28&color=70a5fd&font=Press Start 2P&pause=5000&center=true&vCenter=true&width=800&lines=Hello World!" alt="Typing SVG" />
-</div>
 <!-- <div align="center">
     <picture align="center">
         <source media="(prefers-color-scheme: dark)"
